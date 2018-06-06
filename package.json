@@ -1,0 +1,44 @@
+{
+  "_from": "angular-growl-v2-webpack@^1.0.0",
+  "_id": "angular-growl-v2-webpack@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-KKuS8HM4dIX6reMS7Tz1QwZ6AvQ=",
+  "_location": "/angular-growl-v2-webpack",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "angular-growl-v2-webpack@^1.0.0",
+    "name": "angular-growl-v2-webpack",
+    "escapedName": "angular-growl-v2-webpack",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/angular-growl-v2-webpack/download/angular-growl-v2-webpack-1.0.1.tgz",
+  "_shasum": "28ab92f073387485faade312ed3cf543067a02f4",
+  "_spec": "angular-growl-v2-webpack@^1.0.0",
+  "_where": "/Users/simon/Sites/ui",
+  "author": {
+    "name": "Justin Young"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Webpack version of angular-growl-v2",
+  "keywords": [
+    "angular-growl-v2",
+    "webpack",
+    "angular",
+    "growl"
+  ],
+  "license": "ISC",
+  "main": "./src/index.js",
+  "name": "angular-growl-v2-webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
